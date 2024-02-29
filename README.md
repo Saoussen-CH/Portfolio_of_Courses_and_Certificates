@@ -6,7 +6,7 @@
 - **Deep Reinforcement Learning for Entreprise Nanodegree** [Cetificate link](https://confirm.udacity.com/J9DT9HAP)
 - **Deep Learning Nanodegree** [Cetificate link](https://confirm.udacity.com/RE663M4D)
 
-## Coursera Specializations
+## Coursera Courses & Specializations
 
 ### **Machine Learning** ###
 
