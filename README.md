@@ -10,7 +10,8 @@
 
 ### **Machine Learning** ###
 
-- MLOps (Machine Learning Operations [Cetificate link](https://coursera.org/share/bb7f80cb36d07bca2522b45a8fa23aa2)
+- ML Pipelines on Google Cloud by __Google Cloud__ [Cetificate link](https://coursera.org/share/98cbf6a917388820d8b9d79c17ae90c1)
+- MLOps (Machine Learning Operations) by __Google Cloud__  [Cetificate link](https://coursera.org/share/bb7f80cb36d07bca2522b45a8fa23aa2)
 - Hyperparameter Tuning with Keras Tuner [Cetificate link](https://coursera.org/share/bb7f80cb36d07bca2522b45a8fa23aa2)
 - **DeepLearning.AI TensorFlow Developer Specialization** [Cetificate link](https://coursera.org/share/bf62d6d9572868ef5d442e02a24d7e66)
    1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning [Cetificate link]({https://coursera.org/share/7f0d2140f7b0e7c1f2f6be76ce64b79b)
@@ -22,7 +23,7 @@
    2. Computer Vision Fundamentals with Google Cloud [Cetificate link](https://coursera.org/share/94a02a70378464c4072527e81713544b)
    3. Natural Language Processing on Google Cloud [Cetificate link](https://coursera.org/share/a860de381be971bbd1a0949043f5d27f)
    4. Recommendation Systems on Google Cloud [Cetificate link](https://coursera.org/share/7fd876a33531ef398f54c56578dcbd3b)
-- **TensorFlow: Data and Deployment Specialization** [Cetificate link](https://www.coursera.org/account/accomplishments/specialization/MSX49PTWDL95?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
+- **TensorFlow: Data and Deployment Specialization** by __DeepLearning.A__ [Cetificate link](https://www.coursera.org/account/accomplishments/specialization/MSX49PTWDL95?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
    1. Browser-based Models with TensorFlow.js [Cetificate link](https://coursera.org/share/4ce6e00bfa4cb3ace778e93454d4e649)
    2. Device-based Models with TensorFlow Lite [Cetificate link](https://coursera.org/share/b2ed05b95680c97737865f9061997eb3)
    3. Data Pipelines with TensorFlow Data Services [Cetificate link](https://coursera.org/share/ac977274e76a14ffa2c857cc09669c26)
@@ -40,7 +41,7 @@
    3. Feature Engineering [Cetificate link](https://coursera.org/share/dc08ebacc70c7b02b1c2ca4118fd040f)
    4. TensorFlow on Google Cloud [Cetificate link](https://coursera.org/share/373cfaccf0e5c37d1e881c53c797ce12)
    5. Machine Learning in the Enterprise [Cetificate link](https://coursera.org/share/9b373d966b06e9308b6026f798236ef0)
-- **Deep Learning Specialization** [Cetificate link](https://www.coursera.org/account/accomplishments/specialization/NNBP6DJ2T6FJ)
+- **Deep Learning Specialization** by __DeepLearning.A__ [Cetificate link](https://www.coursera.org/account/accomplishments/specialization/NNBP6DJ2T6FJ)
    1. Neural Networks and Deep Learning [Cetificate link](https://coursera.org/share/f8bbbfb2f94ca298f34ba91949619107)
    2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization [Cetificate link](https://coursera.org/share/8a2a8bf6c5683bc1f961de7326ddd9c2)
    3. Structuring Machine Learning Projects [Cetificate link](https://coursera.org/share/53a7965621ef864453b393eb12041034)
