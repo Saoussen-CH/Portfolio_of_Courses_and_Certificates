@@ -1,6 +1,6 @@
 # Portfolio_of_Courses_and_Certificates
 
-## Udacity Nanodegrees
+## Udacity Nanodegrees ##
 
 - **Machine Learning DevOps Engineer** [Cetificate link](https://www.udacity.com/certificate/SKNDHJRD)
 - **Deep Reinforcement Learning for Entreprise Nanodegree** [Cetificate link](https://confirm.udacity.com/J9DT9HAP)
@@ -91,3 +91,11 @@
   3. Project Planning: Putting It All Together [Cetificate link](https://coursera.org/share/ab314e04a16097b6ffc33f0f3b5e5c6a)
   4. Project Execution: Running the Project [Cetificate link](https://coursera.org/share/7b11df4d62fbeb7cf179501c4631e039)
   5. Agile Project Management [Cetificate link](https://coursera.org/share/453592b92aee1dcdfbde7d9e333249e5)
+
+## IBM badges ##
+- Cloud Application Developer 2018 - Mastery Award for Students [Credential link](https://www.youracclaim.com/badges/3b374e91-357f-4489-8dd8-2ba100ec45be/linked_in_profile)
+- Blockchain Developer - Mastery Award [Credential link](https://www.youracclaim.com/badges/520403e6-6ac2-4c16-b993-8a805fb222b1/linked_in_profile)
+- Predictive Analytics Modeler - Mastery Award 2018 [Credential link](https://www.youracclaim.com/badges/8084af78-8dde-4e33-bc29-04534cb1f6ca/linked_in_profile)
+- IoT Cloud Developer - Mastery Award 2019 [Credential link](https://www.youracclaim.com/badges/bc82c2c2-c4d0-4fdb-bec2-f166bbd4ea98/linked_in_profile)
+- Big Data Engineer - Mastery Award for Students 2018 [Credential link](https://www.youracclaim.com/badges/afb8ae31-fafe-4e3e-b828-bbb053c9c06f/linked_in_profile)
+- Mobile Application Developer - Mastery Award for Students 2017 [Credential link](https://www.youracclaim.com/badges/2d923250-01a9-43b7-b29b-b9727a0a84a7/linked_in_profile)
