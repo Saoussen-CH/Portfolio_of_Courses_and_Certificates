@@ -68,8 +68,8 @@
 ### Cloud Computing ###
 
 - **Cloud Computing Specialization** by __University of Illinois at Urbana-Champaign__
-   1. Cloud Computing Concepts, Part 1 [Cetificate link]((https://www.coursera.org/account/accomplishments/certificate/5L3W495LSG8U)
-   2. Cloud Computing Concepts: Part 2 [Cetificate link]({https://www.coursera.org/account/accomplishments/certificate/NPNFYC9XSUR8)
+   1. Cloud Computing Concepts, Part 1 [Cetificate link](https://www.coursera.org/account/accomplishments/certificate/5L3W495LSG8U)
+   2. Cloud Computing Concepts: Part 2 [Cetificate link](https://www.coursera.org/account/accomplishments/certificate/NPNFYC9XSUR8)
    3. Cloud Computing Applications, Part 1: Cloud Systems and Infrastructure [Cetificate link](https://www.coursera.org/account/accomplishments/certificate/5XULRD4KRAAW)
    4. Cloud Computing Applications, Part 2: Big Data and Applications in the Cloud [Cetificate link](https://www.coursera.org/account/accomplishments/certificate/Y4ZA87JG627K)
    5. Cloud Networking [Cetificate link](https://coursera.org/share/854c1ea7c03fd3d7bf8c2f943a99fa21)
