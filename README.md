@@ -20,7 +20,7 @@
 - Hyperparameter Tuning with Keras Tuner [Cetificate link](https://coursera.org/share/bb7f80cb36d07bca2522b45a8fa23aa2)
 - Custom Models, Layers, and Loss Functions with TensorFlow by __DeepLearning.A__ [Cetificate link](https://coursera.org/share/524ae83bbbc17b90e0bef1107015b57e)
 - Custom and Distributed Training with TensorFlow by __DeepLearning.A__ [Cetificate link](https://coursera.org/share/386d6acb8cb0e33004f8386a08b9ff28)
-- Introduction to Machine Learning in Production by __DeepLearning.A__ [Cetificate link]((https://coursera.org/share/eeed214fb7624411fb928e609b9c0eaf)
+- Introduction to Machine Learning in Production by __DeepLearning.A__ [Cetificate link](https://coursera.org/share/eeed214fb7624411fb928e609b9c0eaf)
 - **DeepLearning.AI TensorFlow Developer Specialization** [Cetificate link](https://coursera.org/share/bf62d6d9572868ef5d442e02a24d7e66)
    1. Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning [Cetificate link]({https://coursera.org/share/7f0d2140f7b0e7c1f2f6be76ce64b79b)
    2. Convolutional Neural Networks in TensorFlow [Cetificate link](https://coursera.org/share/ae186332d166cda310c313b7d0fbb12c)
