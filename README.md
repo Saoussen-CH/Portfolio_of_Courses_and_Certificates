@@ -1,7 +1,7 @@
 # Portfolio_of_Courses_and_Certificates
 
 ## Udacity Nanodegrees & Courses ##
-- **Gemini API by Google** [Cetificate link](confirm.udacity.com/e/75e9656a-3e06-11ef-a58e-57461411f425)
+- **Gemini API by Google** [Cetificate link](https://confirm.udacity.com/e/75e9656a-3e06-11ef-a58e-57461411f425)
 - **LLMOps: Building Real-World Applications With Large Language Models** [Cetificate link](https://confirm.udacity.com/e/2262fade-d3ec-11ee-b707-ab5f527eec20)
 - **Machine Learning DevOps Engineer** [Cetificate link](https://www.udacity.com/certificate/SKNDHJRD)
 - **Deep Reinforcement Learning for Entreprise Nanodegree** [Cetificate link](https://confirm.udacity.com/J9DT9HAP)
