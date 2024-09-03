@@ -17,7 +17,7 @@
 - Feature Engineering __Google Cloud__ [Cetificate link](https://coursera.org/share/08bc46c8c43ad3dead177cd56f94f82b)
 - Machine Learning in the Enterprise by __Google Cloud__ [Cetificate link](https://coursera.org/share/d00350d041a9e6bc8eff32c5ea5dac58)
 - ML Pipelines on Google Cloud by __Google Cloud__ [Cetificate link](https://coursera.org/share/98cbf6a917388820d8b9d79c17ae90c1)
-- MLOps (Machine Learning Operations) by __Google Cloud__  [Cetificate link](https://coursera.org/share/bb7f80cb36d07bca2522b45a8fa23aa2) [updated version cetificate link](https://coursera.org/share/6ff71ee80c6ec8b6beb3f66530b456ee)
+- MLOps (Machine Learning Operations) by __Google Cloud__ [Cetificate link](https://coursera.org/share/bb7f80cb36d07bca2522b45a8fa23aa2) [updated version link](https://coursera.org/share/6ff71ee80c6ec8b6beb3f66530b456ee)
 - Hyperparameter Tuning with Keras Tuner [Cetificate link](https://coursera.org/share/bb7f80cb36d07bca2522b45a8fa23aa2)
 - Custom Models, Layers, and Loss Functions with TensorFlow by __DeepLearning.AI__ [Cetificate link](https://coursera.org/share/524ae83bbbc17b90e0bef1107015b57e)
 - Custom and Distributed Training with TensorFlow by __DeepLearning.AI__ [Cetificate link](https://coursera.org/share/386d6acb8cb0e33004f8386a08b9ff28)
