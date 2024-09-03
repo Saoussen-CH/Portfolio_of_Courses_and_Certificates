@@ -53,7 +53,7 @@
 - **Deep Learning Specialization** by __DeepLearning.AI__ [Cetificate link](https://www.coursera.org/account/accomplishments/specialization/NNBP6DJ2T6FJ) 
    1. Neural Networks and Deep Learning [Cetificate link](https://coursera.org/share/f8bbbfb2f94ca298f34ba91949619107) [updated version cetificate link] ([updated version cetificate link](https://coursera.org/share/119db1fbae36cc9649a7b2afc46455fc)
    2. Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization [Cetificate link](https://coursera.org/share/8a2a8bf6c5683bc1f961de7326ddd9c2)  [updated version cetificate link](https://coursera.org/share/96b7fdf532d209a58690677b38bf1700)
-   3. Structuring Machine Learning Projects [Cetificate link](https://coursera.org/share/53a7965621ef864453b393eb12041034) [updated version cetificate link]https://coursera.org/share/b197011135eacbb7eb6797743c5f5234)
+   3. Structuring Machine Learning Projects [Cetificate link](https://coursera.org/share/53a7965621ef864453b393eb12041034) [updated version cetificate link](https://coursera.org/share/b197011135eacbb7eb6797743c5f5234)
    4. Convolutional Neural Networks [Cetificate link](https://coursera.org/share/2b1688bcf3bbc0a13e99b11eb70ab471) [updated version cetificate link](https://coursera.org/share/bef08f2c2633a4244357cd68120b1b6f)
    5. Sequence Models [Cetificate link](https://coursera.org/share/6e1042025f4f583a86a58ee3d8f69079)
 - **Machine Learning** by __University of Washington__ [Cetificate link](https://www.coursera.org/account/accomplishments/specialization/HRBHWYRRJMD2)
