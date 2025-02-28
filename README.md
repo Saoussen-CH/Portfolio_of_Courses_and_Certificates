@@ -21,7 +21,7 @@ This portfolio highlights my skills and knowledge gained through various online 
 
 ### Short Courses
 
-| #   | Course/Nanodegree                                                | Provider                     | Focus Area            | Completion Year | Certificate Link (V1)                                                                                                    | Certificate Link (V2) | Total # |
+| #   | Course                                             | Provider                     | Focus Area            | Completion Year | Certificate Link (V1)                                                                                                    | Certificate Link (V2) | Total # |
 | :-- | :--------------------------------------------------------------- | :--------------------------- | :------------------ | :-------------- | :----------------------------------------------------------------------------------------------------------------------- | :-------------------- | :------- |
 | 4   | LangChain for LLM Application Development                         | DeepLearning.AI & LangChain  | Generative AI       | 2023            | [<ins>View</ins>](https://learn.deeplearning.ai/accomplishments/35fc1a20-7081-43a6-9c79-c63263233ef2?usp=sharing) |                         | 4       |
 | 5   | Building Systems with the ChatGPT API                         | DeepLearning.AI & OpenAI | Generative AI | 2023            | [<ins>View</ins>](https://learn.deeplearning.ai/accomplishments/0fd75770-87f7-4f4a-aa51-22692d2faf75?usp=sharing) |                         | 5       |
@@ -39,7 +39,7 @@ This portfolio highlights my skills and knowledge gained through various online 
 
 ### Google Cloud Skills Boost
 
-| #   | Courses                                              | Provider                     | Focus Area    | Completion Year | Certificate Link (V1)                                                                                                    | Certificate Link (V2) | Total # |
+| #   | Course                                              | Provider                     | Focus Area    | Completion Year | Certificate Link (V1)                                                                                                    | Certificate Link (V2) | Total # |
 | :-- | :--------------------------------------------------------------- | :--------------------------- | :-------------- | :-------------- | :----------------------------------------------------------------------------------------------------------------------- | :-------------------- | :------- |
 | 17   | Develop GenAI Apps with Gemini and Streamlit                         | Google Cloud           | Generative AI | 2024            | [<ins>View</ins>](https://www.credly.com/badges/6ddee078-ffe7-4b2f-8326-fd8faa0c745b) |                         | 17   |
 | 18   | Build Generative AI Agents with Vertex AI and Flutter                         | Google Cloud | Generative AI | 2024            | [<ins>View</ins>](https://www.cloudskillsboost.google/public_profiles/f7d9c539-0fcf-497a-a84e-b1a0383d4c21/badges/13347241) |                         | 18   |
