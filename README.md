@@ -9,6 +9,15 @@ This portfolio highlights my skills and knowledge gained through various online 
 *   **Cloud Computing:** Google Cloud Platform (GCP), Cloud Architecture, Cloud Security, Cloud Networking, Cloud Applications
 *   **Project Management:** Agile, Project Planning, Execution, Initiation
 
+## Google Cloud Certifications
+| #   | Certification Title                                                | Provider              | Focus Area            | Completion Year | Certificate Link (V1)                                        | Certificate Link (V2) | Total # |
+| :-- | :--------------------------------------------------------------- | :-------------------- | :------------------ | :-------------- | :----------------------------------------------------------- | :-------------------- | :------- |
+| 34  | Google Cloud Machine Learning Engineer Certification             | Google Cloud           | Machine Learning      | 2021-2024            |  |  [<ins>View</ins>](https://google.accredible.com/5a641cfd-6a4b-4f5d-9eb9-95066318ac93#acc.b6sardMZ)                       |       |
+| 35  | Google Cloud Professional Data Engineer Certification             | Google Cloud           | Data Engineering      | 2021-2023             | | [<ins>View</ins>](https://google.accredible.com/8df4633c-187b-455e-9229-7988237725ac#acc.GAb4VBkW)                        |      |
+| 36  | Google Cloud Certified Professional Cloud Architect               | Google Cloud           | Cloud Architecture    | 2023            | [<ins>View</ins>](https://google.accredible.com/1048558a-ffaf-4c83-82d8-c8c9397ccfec#acc.7AYUJLbK) |                         |       |
+| 37  | TensorFlow Developer Certificate             | TensorFlow           | Machine Learning      | 2021            |      [<ins>View</ins>](https://www.credential.net/65ca5eb5-12ac-43c2-b481-485d1f4b75e5#acc.F1QuYDUq)                                                        |                         |       |
+
+
 ## Generative AI
 
 ### Courses
