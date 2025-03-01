@@ -118,7 +118,7 @@ This portfolio highlights my skills and knowledge gained through various online 
 | 26.3| Machine Learning: Classification                                                                                   |                      | Machine Learning            | 2018            | [<ins>View</ins>](https://coursera.org/share/77edec2e45646bc94487a7e3a3455f32)                                          |                                                                                                                          | 83       |
 | 26.4| Machine Learning: Clustering & Retrieval                                                                         |                      | Machine Learning            | 2018            | [<ins>View</ins>](https://coursera.org/share/dfe1aa4d0af14aa204c784a7ef8957f6)                                          |                                                                                                                          | 84       |
 
-### Data Engineering
+## Data Engineering
 
 | #   | Course/Nanodegree                                                                                                | Provider     | Focus Area                 | Completion Year | Certificate Link (V1)                                                                                                     | Certificate Link (V2) | Total # |
 | :-- | :--------------------------------------------------------------------------------------------------------------- | :----------- | :------------------------- | :-------------- | :------------------------------------------------------------------------------------------------------------------------ | :-------------------- | :------- |
@@ -131,7 +131,7 @@ This portfolio highlights my skills and knowledge gained through various online 
 | 28  | Big Data Analysis with Scala and Spark                                                                           | École Polytechnique Fédérale de Lausanne | Big Data Analysis            | 2018            | [<ins>View</ins>](https://www.coursera.org/account/accomplishments/certificate/XC7L9N92TAK5)                                          |                         | 91       |
 | 29  | Preparing for your Professional Data Engineer Journey                                                              | Google Cloud           | Data Engineering           | 2023            | [<ins>View</ins>](https://coursera.org/share/c5f6683333167593a90dc5a96718819d)                                          |                         | 92       |
 
-### Cloud Computing
+## Cloud Computing
 
 | #   | Course/Nanodegree                                                                        | Provider                       | Focus Area        | Completion Year | Certificate Link (V1)                                                                    | Certificate Link (V2) | Total # |
 | :-- | :--------------------------------------------------------------------------------------- | :----------------------------- | :---------------- | :-------------- | :--------------------------------------------------------------------------------------- | :-------------------- | :------- |
@@ -144,7 +144,7 @@ This portfolio highlights my skills and knowledge gained through various online 
 | 31  | Preparing for your Professional Cloud Architect Journey                                  | Google Cloud                   | Cloud Architecture| 2023            | [<ins>View</ins>](https://coursera.org/share/7a4d0a47ccbaab1c23621abb440a5f8c)     |                         | 99       |
 | 32  | Managing Security in Google Cloud                                                        | Google Cloud                   | Cloud Security    | 2023            | [<ins>View</ins>](https://coursera.org/share/7e6e95793c563916c59804bfa41223ed)     |                         | 100       |
 
-### Project Management
+## Project Management
 
 | #   | Course/Nanodegree                                                             | Provider        | Focus Area        | Completion Year | Certificate Link (V1)                                                                    | Certificate Link (V2) | Total # |
 | :-- | :---------------------------------------------------------------------------- | :-------------- | :---------------- | :-------------- | :--------------------------------------------------------------------------------------- | :-------------------- | :------- |
